@@ -1,8 +1,6 @@
 # Telecommunication-Final-Year-Project
 Telecommunication Churn Price Prediction Project. 
 
-![4D962B49-490E-497E-B91A-E26B2CB4E5A8_1_201_a](https://user-images.githubusercontent.com/28294942/151219252-be9b56ea-27cd-43d6-a3eb-33141ef89b77.jpeg)
-
 
 # Summary:
 
@@ -12,28 +10,3 @@ Churn is a one of the biggest problem in the telecom industry, and this is becau
 
 The proposed models will allow the network provider to allocate the resources more wisely, resulting in greater efficiencies while achieving better results.
 
-
-
-## Code will be in python programming
-
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on any projects.
- 
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
